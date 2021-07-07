@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928501203075",
+    "project_id": "linkshortener-8349e",
+    "storage_bucket": "linkshortener-8349e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928501203075:android:ba8b8fac64b7e8f920dbb6",
+        "android_client_info": {
+          "package_name": "com.cyberlabs.linkshortener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928501203075-1sug80tpl5kss381j46s555v5l5a61oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkM44qY7PeR1tp-0_O3TPSWF8Lar_CLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928501203075-1sug80tpl5kss381j46s555v5l5a61oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
